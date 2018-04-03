@@ -59,7 +59,10 @@ h3 {
   font-family: 'Josefin Slab', serif;
   font-size: 1.5em;
 }
-
+a {
+  text-decoration: none; 
+  color: slategray;
+}
 .desc {
   text-transform: uppercase; 
   width: 90px;
@@ -121,11 +124,13 @@ p.about {
 }
 
 .learning ul {
-  margin: 4px;
+  margin: 5px;
 }
 
 
-
+.pull-right {
+  float: right;
+}
 
 
 .skills-bar-container {
@@ -136,6 +141,7 @@ p.about {
   margin: 0 auto;
   margin-bottom: 7px;
   border-radius: 3px;
+  overflow: hidden;
 }
 .skills-bar-container p {
   position: absolute; 
@@ -151,8 +157,6 @@ p.about {
     line-height: 20px; 
     font-weight: bold;
     font-size: 0.75em;
-    border-top-left-radius: 3px;
-    border-bottom-left-radius: 3px;
 }
 
 .html {width: 95%; background-color: #e24842;} /* papaya */

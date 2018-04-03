@@ -159,16 +159,20 @@ p.about {
     font-size: 0.75em;
 }
 
-.html {width: 95%; background-color: #e24842;} /* papaya */
-.css {width: 90%; background-color: #e9b000;} /* mustard */
-.js {width: 75%; background-color: #eb6e80;} /* blush */
-.php {width: 70%; background-color: #008f95;} /* aqua */
+.html {width: 98%; background-color: #e24842;} /* papaya */
+.css {width: 95%; background-color: #e9b000;} /* mustard */
+.js {width: 80%; background-color: #eb6e80;} /* blush */
+.php {width: 75%; background-color: #008f95;} /* aqua */
 
-.cs {width: 75%; background-color: #e24842;} /* papaya */
+.cs {width: 70%; background-color: #e24842;} /* papaya */
 .asp {width: 65%; background-color: #e9b000;} /* mustard */
 .git {width: 60%; background-color: #eb6e80;} /* blush */
 .bootstrap {width: 75%; background-color: #008f95;} /* aqua */
 
+.jquery {width: 75%; background-color: #e24842;} /* papaya */
+.angular {width: 60%; background-color: #e9b000;} /* mustard */
+.angularjs {width: 60%; background-color: #eb6e80;} /* blush */
+.java {width: 65%; background-color: #008f95;} /* aqua */
 
 
 

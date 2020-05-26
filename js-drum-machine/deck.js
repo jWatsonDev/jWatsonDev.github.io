@@ -41146,13 +41146,13 @@ const Presentation = () => react__WEBPACK_IMPORTED_MODULE_0___default.a.createEl
   style: {
     color: '#fff'
   }
-}, "\"Starter\" fcc Drum Pen CodePen."), "  This has built-in tests for you to test your app!")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(spectacle__WEBPACK_IMPORTED_MODULE_4__["ListItem"], null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(spectacle__WEBPACK_IMPORTED_MODULE_4__["Text"], null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+}, "\"Starter\" fcc Drum Machine CodePen."), "  This has built-in tests for you to test your app!")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(spectacle__WEBPACK_IMPORTED_MODULE_4__["ListItem"], null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(spectacle__WEBPACK_IMPORTED_MODULE_4__["Text"], null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
   href: "https://codepen.io/jwatson2pt0/full/LYpJqNz",
   target: "_blank",
   style: {
     color: '#fff'
   }
-}, "\"Completed\" JS Calculator"), " - Don't look at this yet! Note that freeCodeCamp also has a completed example that is built with React. Ours will be vanilla JavaScript!")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_CodeSlide__WEBPACK_IMPORTED_MODULE_3__["default"], {
+}, "\"Completed\" fcc Drum Machine CodePen"), " - Don't look at this yet! Note that freeCodeCamp also has a completed example that is built with React. Ours will be vanilla JavaScript!")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_CodeSlide__WEBPACK_IMPORTED_MODULE_3__["default"], {
   backgroundColor: "#0d1d2e",
   theme: _Components_CodeSlide__WEBPACK_IMPORTED_MODULE_3__["Themes"].dracula,
   lang: "html",
